@@ -1,2 +1,2 @@
 # Greenwich-Cabs
-Java
+This program was written in Java using netbeans IDE
